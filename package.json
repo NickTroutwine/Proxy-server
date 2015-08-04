@@ -9,6 +9,7 @@
   "author": "Nick Troutwine",
   "license": "ISC",
   "dependencies": {
-    "bouncy": "^3.2.2"
+    "bouncy": "^3.2.2",
+    "portscanner": "^1.0.0"
   }
 }
